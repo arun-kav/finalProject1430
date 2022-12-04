@@ -1,5 +1,8 @@
-To Play:
+To play:
 
-Run python movenet.py
+In command line run: 
+python movenet.py
 
-you may need to install some dependencies
+Then go to flappybird.io, hover your mouse over the frame, and play with your right wrist (configurable)
+
+you may need to install some dependencies - just pip install everything that it errors on for now
